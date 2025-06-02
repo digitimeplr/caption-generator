@@ -1,2 +1,2 @@
-# caption-generator
+# captioncore
 Social media caption generator
